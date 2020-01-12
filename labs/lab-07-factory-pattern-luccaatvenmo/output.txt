@@ -1,0 +1,2 @@
+Please enter `./calculator <expression>`
+Example: `./calculator 9 / 3 - 1 + 2 \* 3 `

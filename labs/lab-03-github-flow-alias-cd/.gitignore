@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+MakeCache.txt
+=======
+c-echo-count
+test
+
+CMakeCache.txt
+>>>>>>> master
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+<<<<<<< HEAD
+c-echo-count
+test
+googletest/
+lib/
+=======
+>>>>>>> master

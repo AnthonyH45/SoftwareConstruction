@@ -1,0 +1,13 @@
+test
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+cmake*
+Makefile
+
+googletest/
+lib/
+
+cmake_install.cmake
+main
